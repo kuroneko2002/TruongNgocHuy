@@ -1,0 +1,9 @@
+body{
+    background-image: url(../image/bckgrd.jpg);
+    background-size: cover;
+    
+}
+
+.card_content{
+    height: auto;
+}

@@ -1,0 +1,10 @@
+body{
+    background-image: url(../image/bckgrd.jpg);
+    background-size: cover;
+    
+}
+
+.intro_paragraph{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
